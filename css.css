@@ -1,0 +1,27 @@
+.flex{
+    display: flex;
+}
+
+.item-center{
+    align-items: center;
+}
+.justify-center{
+    justify-content: center;
+}
+
+.space-between{
+    justify-content: space-between;
+}
+
+.mx-2{
+    margin-left: 12px;
+    margin-right: 12px;
+}
+.section{
+    background: #e2e0e0;
+    font-family: 'Poppins', sans-serif;
+}
+
+.flex-wrap{
+    flex-wrap: wrap;
+}
